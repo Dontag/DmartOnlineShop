@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "204583292232",
+    "project_id": "dmartbarcodescanner",
+    "storage_bucket": "dmartbarcodescanner.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:204583292232:android:0ff893440aaacd6104777d",
+        "android_client_info": {
+          "package_name": "com.dmartbarcodescanner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "204583292232-sueq99djh88jqpmf3tdgr4sukc02ji1d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLjJ5FDnK125NXNMeWVQ_fNYWdtM3DkNw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "204583292232-sueq99djh88jqpmf3tdgr4sukc02ji1d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
